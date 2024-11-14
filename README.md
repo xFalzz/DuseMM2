@@ -1,7 +1,7 @@
 # DuseMM2
 
 # Web Kelas
-Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami.
+Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami
 
 Teknologi yang digunakan diantaranya: 
 - React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
