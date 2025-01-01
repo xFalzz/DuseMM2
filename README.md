@@ -65,19 +65,3 @@ Note: ini merupakan cara saya, jika ada yang lebih mudah dan efisien silahkan
 
 -buka lagi terminalnya ketik npm run dev
 ![image](https://github.com/EkiZR/Web-Kelas-V2/assets/92925560/7802b25c-fa5a-4037-a8c2-c36e165159e1)
-
-# Fitur Rahasia memblokir seseorang lewat ip
--Tambahkan collection di firestore database seperti berikut
-![image](https://github.com/EkiZR/Web-Kelas-V2/assets/92925560/f92ee3db-9946-4b80-8a09-1ff91a2e9341)
-
--Add field seperti berikut 
-![image](https://github.com/EkiZR/Web-Kelas-V2/assets/92925560/59da4808-8d88-4172-9d23-2b7fbc3e5f9b)
-
--Untuk Mendapatkan ip target, pergi ke collection chat disitu terdapat ip user setiap mengirim pesan
-![image](https://github.com/EkiZR/Web-Kelas-V2/assets/92925560/4e8e29ff-fe7a-4ce6-b771-c62cfe0ccc5e)
-
-------
-![image](https://github.com/EkiZR/Web-Kelas-V2/assets/92925560/da0b81c4-a8ff-4f64-a32e-ae4ab59925f2)
-
-
-sekian, kurang lebihnya mohon maaf 🙏
